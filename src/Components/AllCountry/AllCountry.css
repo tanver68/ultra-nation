@@ -1,0 +1,9 @@
+.allCountry{
+       margin: 20px;
+       padding: 20px;
+       border: 1px solid lightseagreen;
+       border-radius: 20px;
+}
+.allCountry img{
+    width: 25%;
+}
